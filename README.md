@@ -1,5 +1,5 @@
 # NFL-Prediction-model
-To predict the match-winners of a gameweek of the National Football League based on game stats parsed from the NFL.com's live GameCenter using the [nflgame API](https://github.com/derek-adair/nflgame) - API used in order to get the in-game stats.
+To predict the match-winners of a gameweek of the National Football League based on game stats parsed from NFL.com's live GameCenter using the [nflgame API](https://github.com/derek-adair/nflgame) - API used in order to get the in-game stats.
 
 ### Things done 
 * Built a model using RandomForest Classifier and utilized statistics like Rushing Yards per game, Passing Yards per game, etc. after applying Feature Selection.
